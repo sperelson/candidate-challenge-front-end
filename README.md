@@ -29,7 +29,7 @@ Get into the head-space of buying or selling on your favourite marketplace plafo
 
 Details of fields to carry on each of these can be found at the bottom of this file. 
 
-That makes up the base level of the applicaiton. In Addition, we ask that you choose at least one bonus feature below to implement.  (You an definitely pick more than one if you're on a roll!)
+That makes up the base level of the applicaiton. In Addition, we ask that you choose at least one bonus feature below to implement.  (You can definitely pick more than one if you're on a roll, or if you'd like to show off some of your other skills!)
 
 BONUS FEATURES:
 * Add Auth onto the Listing Create Page. 
