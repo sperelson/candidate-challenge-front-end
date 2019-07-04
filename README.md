@@ -7,7 +7,7 @@ This Challenge project will give you a gilmpse into life as a developer at ROAM 
 
 ### What are we looking for? 
 
-We're aiming to understand where you're at as a modern Front End Developer. We do not expect a  production ready app, just enought for you to feel like you've communicated your level of skill to us. Ideally, all of the main features should be working, but the amount of spit-and-polish that you apply is completely up to you. 
+We're aiming to understand where you're at as a modern Front End Developer. We do not expect a  production ready app, just enough for you to feel like you've communicated your level of skill to us. Ideally, all of the main features should be working, but the amount of spit-and-polish that you apply is completely up to you. 
 
 We expect that this should take between 3-8 hours to complete, with at least another hour per bonus feature that you tackle. The idea that this is a big sacrifice of time is not lost on us! It's no small ask, but we find it important for the following reasons:
 
@@ -25,7 +25,7 @@ Get into the head-space of buying or selling on your favourite marketplace plafo
 2. A Listing detail Page. (Showing More info on a single Listing)
 3. A Create Listing Page
 
-Detils of fields to carry on each of these can be found at the bottom of this file. 
+Details of fields to carry on each of these can be found at the bottom of this file. 
 
 That makes up the base level of the applicaiton. In Addition, we ask that you choose at least one bonus feature below to implement.  (You an definitely pick more than one if you're on a roll!)
 
