@@ -1,11 +1,11 @@
 # Front End Candidate Challenge Project
-## Introduction:
+### INTRODUCTION
 
 Ringier, Ringier International Tech & Data Unit (RITDU) and Ringier One Africa Media (ROAM) serve up hundreds of millions of monthly request across dozens of marketplace platforms every month. These marketplace plaforms are made up of Cars, Jobs, Property and General Classified assets, uniquely localised and expertly scaled. 
 
 This Challenge project will give you a gilmpse into life as a developer at ROAM / RITDU. 
 
-### What are we looking for? 
+### WHAT ARE WE LOOKING FOR?
 
 We're aiming to understand where you're at as a modern Front End Developer. We do not expect a  production ready app, just enough for you to feel like you've communicated your level of skill to us. Ideally, all of the main features should be working, but the amount of spit-and-polish that you apply is completely up to you. 
 
@@ -17,7 +17,7 @@ We expect that this should take between 3-8 hours to complete, with at least ano
 
 3. For you to be forced to play with some of our unique stack. Especially *Tailwind CSS* which really needs to be experienced rather than explained. 
 
-### The Challenge 
+### THE CHALLENGE
 
 Get into the head-space of buying or selling on your favourite marketplace plaform (e.g. Gumtree if you're in SA), and build us a basic marketplace POC. These are the main features we're after: 
 
@@ -39,13 +39,13 @@ BONUS FEATURES:
 * Docker / docker-compose Setup
 * Automated Tests
 
-### What's allowed in your toolbelt? 
+### WHAT IS ALLOWED IN YOUR TOOLBELT?
 * A Modern FE Framework. (VueJS, ReactJS or Angular)
 * [Tailwind CSS](https://tailwindcss.com/) (We'd really like you to give it a try)
 * [Json Server ](https://github.com/typicode/json-server). If you'd prefer to roll your own real BE with something else, go ahead! But faking it with Json Server won't count against you in any way at all!
 * Github (or bitbucket if you must!)
 
-### Instructions:
+### INSTRUCTIONS
 1. Commit often, with meaningful commits. We'd rather see real commit history then it all magically coming together. 
 
 2. Complete at least the basic features plus 1 bonus feature. 
