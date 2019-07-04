@@ -46,23 +46,50 @@ BONUS FEATURES:
 * Github (or bitbucket if you must!)
 
 ### INSTRUCTIONS
-1. Commit often, with meaningful commits. We'd rather see real commit history than it all magically coming together. 
+1. Commit often, with meaningful commits. We'd rather see real commit history than it all magically coming together. Please start with one initial commit after starting with any framework / bootstrap code so that we can clearly distinguish where the community code ends and your code begins. 
 
 2. Complete at least the basic features plus 1 bonus feature. 
 
 3. This is a FE specific challenge. We expect to see the best practices from a modern FE developer. These include things like:
-  * Adherance to community guidelines, standards and best practices
-  * Component Driven Development
-  * Routing
-  * State Management
-  * Clean Validation of all inputs
-  * Functional Components
-  * A clear, concise readme file with full setup instructions. 
-  * ES6
-  * Slots
-  * Maintaining State on refresh
-  
-4. Play with Tailwind! We will not be too specific on implementing a specific design. You're welcome to just replicate a marketplace platform that already exists or just free-style it yourself. We won't expect it to be pixel perfect in every way, but it should ne clean, simple and work on mobile. Remember, this is a development challenge, not a design challenge! 
+    * Adherance to community guidelines, standards and best practices
+    * Component Driven Development
+    * Routing
+    * State Management
+    * Clean Validation of all inputs
+    * Functional Components
+    * A clear, concise readme file with full setup instructions. 
+    * ES6
+    * Slots
+    * Maintaining State on refresh
+
+4. *Use Tailwind for CSS.* We know you probably have never touched it before, but now's a great time to get your feet wet and be exposed to something new!  We will not be too opinionated on implementing a specific design. You're welcome to just replicate a marketplace platform that already exists or just free-style it yourself. We won't expect it to be pixel perfect in every way, but it should be clean, simple and work on mobile (Mobile First) Remember, this is a development challenge, not a design challenge! 
+
+5. Once you're done, please drop us a link to your repo on github. 
+
+6. We wask that you get this submitted within 1 week of receiving the challenge. If you need further time, just drop us a message and let us know. 
 
 
+That's it. If you're stuck with any of the above, or would like further resources on Tailwind css please do reach out. We're on ZaTech Slack or Email. 
+
+Here's a list of the minimum fields that we'll be looking for
+
+1. Listings:
+   * Title 
+   * Slug
+   * Description
+   * Category (One of the following)
+       * Furniture
+       * Electronics
+       * Cars
+       * Property
+    * Date Online
+    * Date Offline
+    * Price
+    * Currency
+    
+    
+2. Search
+ * Search by string matching in title
+ * Search by category
+ 
 
