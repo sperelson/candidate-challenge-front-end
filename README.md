@@ -64,7 +64,9 @@ BONUS FEATURES:
     * Slots
     * Maintaining State on refresh
 
-4. *Use Tailwind for CSS.* We know you probably have never touched it before, but now's a great time to get your feet wet and be exposed to something new!  We will not be too opinionated on implementing a specific design. You're welcome to just replicate a marketplace platform that already exists or just free-style it yourself. We won't expect it to be pixel perfect in every way, but it should be clean, simple and work on mobile (Mobile First) Remember, this is a development challenge, not a design challenge! 
+4. *Use Tailwind for CSS.* We know you probably have never touched it before, but now's a great time to get your feet wet and be exposed to something new!  We will not be too opinionated on implementing a specific design. You're welcome to just replicate a marketplace platform that already exists or just free-style it yourself. We won't expect it to be pixel perfect in every way, but it should be clean, simple and work on mobile (Mobile First)
+
+Remember, this is a development challenge, not a design challenge! 
 
 5. Once you're done, please drop us a link to your repo on github. 
 
