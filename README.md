@@ -13,7 +13,7 @@ We expect that this should take between 3-8 hours to complete, with at least ano
 
 1. To give you time to decide if this is a product space that you could get excited about. 
 
-2. For us to be able to honestly evaluate your competence, style and approach in for the job at hand. 
+2. For us to be able to honestly evaluate your competence, style and approach for the job at hand. 
 
 3. For you to be forced to play with some of our unique stack. Particulary the Tailwind CSS which really needs to be experienced rather than explained. 
 
