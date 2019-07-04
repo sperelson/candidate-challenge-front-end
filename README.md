@@ -1,7 +1,7 @@
 # Front End Candidate Challenge Project
 ### INTRODUCTION
 
-Ringier, Ringier International Tech & Data Unit (RITDU) and Ringier One Africa Media (ROAM) serve up hundreds of millions of monthly request across dozens of marketplace platforms worldwide every month. 
+Ringier, Ringier International Tech & Data Unit (RITDU) and Ringier One Africa Media (ROAM) serve up hundreds of millions of monthly requests across dozens of marketplace platforms worldwide every month. 
 
 These marketplace plaforms are made up of Cars, Jobs, Property and General Classified assets, uniquely localised and expertly scaled. 
 
