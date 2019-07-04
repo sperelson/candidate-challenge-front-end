@@ -1,14 +1,13 @@
-
+# Front End Candidate Challenge Project
 ## Introduction:
 
-Ringier, Ringier International Tech & Data Unit (RITDU) and Ringier One Africa Media (ROAM) serve up hundreds of millions of monthly request across dozens of marketplace platforms every month. These marketplace plaforms are made up of Cars, Jobs, Property and General Classified (Horizontal) assets, uniquely localised and expertly scaled. 
+Ringier, Ringier International Tech & Data Unit (RITDU) and Ringier One Africa Media (ROAM) serve up hundreds of millions of monthly request across dozens of marketplace platforms every month. These marketplace plaforms are made up of Cars, Jobs, Property and General Classified assets, uniquely localised and expertly scaled. 
 
 This Challenge project will give you a gilmpse into life as a developer at ROAM / RITDU. 
 
 ### What are we looking for? 
 
-
-This Challenge project aims to understand where you're at as a modern Front End Developer. We do not expect a  production ready app, just enought for you to feel like you've communicated your level of skill to us. Ideally, all of the main features should be working, but the amount of spit-and-polish that you apply is completely up to you. 
+We're aiming to understand where you're at as a modern Front End Developer. We do not expect a  production ready app, just enought for you to feel like you've communicated your level of skill to us. Ideally, all of the main features should be working, but the amount of spit-and-polish that you apply is completely up to you. 
 
 We expect that this should take between 3-8 hours to complete, with at least another hour per bonus feature that you tackle. The idea that this is a big sacrifice of time is not lost on us! It's no small ask, but we find it important for the following reasons:
 
