@@ -69,7 +69,7 @@ Remember, this is a development challenge, not a design challenge!
 
 5. Once you're done, please drop us a link to your repo on github. 
 
-6. We wask that you get this submitted within 1 week of receiving the challenge. If you need further time, just drop us a message and let us know. 
+6. We ask that you get this submitted within 1 week of receiving the challenge. If you need further time, just drop us a message and let us know. 
 
 
 That's it. If you're stuck with any of the above, or would like further resources on Tailwind css please do reach out. We're on ZaTech Slack or Email. 
