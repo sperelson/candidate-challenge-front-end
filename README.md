@@ -46,7 +46,7 @@ BONUS FEATURES:
 * Github (or bitbucket if you must!)
 
 ### INSTRUCTIONS
-1. Commit often, with meaningful commits. We'd rather see real commit history then it all magically coming together. 
+1. Commit often, with meaningful commits. We'd rather see real commit history than it all magically coming together. 
 
 2. Complete at least the basic features plus 1 bonus feature. 
 
