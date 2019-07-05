@@ -24,12 +24,10 @@ We expect that this should take between 3-8 hours to complete, with at least ano
 Get into the head-space of buying or selling on your favourite marketplace plaform (e.g. Gumtree if you're in SA), and build us a basic marketplace POC. These are the main features we're after: 
 
 1. A Listing Search Page (which could also be the Home / Landing Page). 
-2. A Listing detail Page. (Showing More info on a single Listing)
+2. A Listing detail Page. (Showing more info on a single Listing, refer to list at the end of the readme)
 3. A Create Listing Page
 
-Details of fields to carry on each of these can be found at the bottom of this file. 
-
-That makes up the base level of the applicaiton. In Addition, we ask that you choose at least one bonus feature below to implement.  (You can definitely pick more than one if you're on a roll, or if you'd like to show off some of your other skills!)
+That makes up the base level of the application. In Addition, we ask that you choose at least one bonus feature below to implement.  (You can definitely pick more than one if you're on a roll, or if you'd like to show off some of your other skills!)
 
 BONUS FEATURES:
 * Add Auth onto the Listing Create Page. 
@@ -74,9 +72,7 @@ Remember, this is a development challenge, not a design challenge!
 
 That's it. If you're stuck with any of the above, or would like further resources on Tailwind css please do reach out. We're on ZaTech Slack or Email. 
 
-Here's a list of the minimum fields that we'll be looking for
-
-1. Listings:
+*** Here's a list of the minimum fields that we'll be looking for on Listings
    * Title 
    * Slug
    * Description
@@ -90,8 +86,7 @@ Here's a list of the minimum fields that we'll be looking for
     * Price
     * Currency
     
-    
-2. Search
+And search should have at least the following features. 
  * Search by string matching in title
  * Search by category
  
