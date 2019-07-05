@@ -76,16 +76,16 @@ Here's a list of the minimum fields that we'll be looking for on Listings
    * Title 
    * Slug
    * Description
+   * Date Online
+   * Date Offline
+   * Price
+   * Currency
+   * Contact Details (Mobile and Email)
    * Category (One of the following)
        * Furniture
        * Electronics
        * Cars
        * Property
-    * Date Online
-    * Date Offline
-    * Price
-    * Currency
-    * Contact Details (Mobile and Email)
     
 And search should have at least the following features. 
  * Search by string matching in title
