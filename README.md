@@ -72,7 +72,7 @@ Remember, this is a development challenge, not a design challenge!
 
 That's it. If you're stuck with any of the above, or would like further resources on Tailwind css please do reach out. We're on ZaTech Slack or Email. 
 
-*** Here's a list of the minimum fields that we'll be looking for on Listings
+Here's a list of the minimum fields that we'll be looking for on Listings
    * Title 
    * Slug
    * Description
