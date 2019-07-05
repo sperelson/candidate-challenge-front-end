@@ -85,6 +85,7 @@ Here's a list of the minimum fields that we'll be looking for on Listings
     * Date Offline
     * Price
     * Currency
+    * Contact Details (Mobile and Email)
     
 And search should have at least the following features. 
  * Search by string matching in title
