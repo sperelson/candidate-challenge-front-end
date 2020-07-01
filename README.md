@@ -27,7 +27,7 @@ We will rate the delivered work based on the expected position level as follows:
 * Include a Readme text file with any installation instructions you feel we need. Also add details for anything you found hard or confusing for this assessment
 
 ### Middle Level
-* A working project is nice, but not the most important thing
+* A working project
 * Tailwind CSS should be used correctly to enable a responsive design and to style the UI into something decent
 * The Javascript framework is used in such a way that it displays a good understanding of how Single Page Applications work
 * The back end is architected in an understandable and maintainable way
@@ -35,7 +35,7 @@ We will rate the delivered work based on the expected position level as follows:
 * Include a Readme text file with any installation instructions you feel we need
 
 ### Senior Level
-* A working project is nice, but not the most important thing
+* A working project
 * The front end build setup shows a good understanding of how to configure a modern Javascript framework and *Tailwind CSS* for development and production
 * Tailwind CSS should be used correctly to enable a responsive design and to style the UI into something decent
 * The Javascript framework is implemented as expected to produce a functional front end
@@ -66,7 +66,7 @@ That makes up the base level of the application. In Addition, we ask that you ch
 * Automated Tests
 
 ## WHAT IS EXPECTED IN YOUR TOOLBELT?
-* A Modern Front End Framework: VueJS, ReactJS or Angular)
+* A Modern Front End Framework: VueJS, ReactJS or Angular
 * [Tailwind CSS](https://tailwindcss.com/) (We'd really like you to give it a try)
 * [Laravel Framework](https://laravel.com) for the backend. You can use anything for the DB, but SQLite may be the simplest to get running
 * Github (or Bitbucket/Gitlab if you must!)
